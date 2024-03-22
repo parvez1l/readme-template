@@ -8,8 +8,8 @@
       "args": [],
       "stopAtEntry": false,
       "externalConsole": false,
-      "cwd": "/home/parvez/work",
-      "program": "/home/parvez/work/build/Debug/outDebug",
+      "cwd": "/home/parvez/work/parvez.cpp",
+      "program": "/home/parvez/work/parvez.cpp/build/Debug/outDebug",
       "MIMode": "gdb",
       "miDebuggerPath": "gdb",
       "setupCommands": [
